@@ -13,5 +13,5 @@ def absolutevalue():
         myabsolute = mynumber*-1
         print("The absolute value of ",mynumber, "is ", myabsolute)
     else :
-        print("The absolute value is ",mynumber, "is ",mynumber)
+        print("The absolute value of ",mynumber, "is ",mynumber)
 #%%
